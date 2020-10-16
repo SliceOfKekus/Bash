@@ -1,0 +1,7 @@
+6
+1409:systemd
+1415:(sd-pam)
+1421:bash
+1571:bash
+1573:ps
+1574:awk
